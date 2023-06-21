@@ -1,6 +1,6 @@
 ﻿# Cats-Facts-API
 
-A sample REST API that uses:
+A sample REST API that fetches data from an external API and registers it into a cloud database, it uses:
   
     Node.js
     
